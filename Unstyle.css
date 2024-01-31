@@ -1,0 +1,69 @@
+
+h1{
+    text-align: center;
+    background-color: #cccccc;
+    font-size: 30px;
+}
+
+p{
+    text-align: center;
+    background-color: #cccccc;
+}
+
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+#banner{
+    width: 100%;
+    height: 25pc;
+}
+
+.items{
+    font-style: italic;
+}
+
+.diferen{
+    background-color: #ffffff;
+}
+
+.principal{
+    background-color: #cccccc;
+    padding: 20px 20px;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+#diferenciales{
+    width: 50%;
+    padding: 30x;
+}
+
+ul{
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-right: 20%;
+    font-size: 40px;
+    position: relative;
+    left: 40px;
+
+}
+
+header{
+    font-size: 40px;
+    color: purple;
+    background-color: #cccccc;
+    padding: 20px;
+}
+
+footer{
+    font-size: 30px;
+}
